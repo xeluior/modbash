@@ -1,0 +1,6 @@
+[submodule "submodules/bash-preexec"]
+	path = submodules/bash-preexec
+	url = https://github.com/rcaloras/bash-preexec.git
+[submodule "submodules/specifications"]
+	path = submodules/specifications
+	url = https://gitlab.freedesktop.org/Per_Bothner/specifications.git
