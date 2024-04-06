@@ -1,0 +1,1 @@
+../submodules/specifications/proposals/prompts-data/shell-integration.bash
