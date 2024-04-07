@@ -27,6 +27,3 @@ If you want to write your own plugins, simply add a new file to the plugins/ dir
 - `require <name>`: source the plugin with `name` if and only if it has not already been loaded
 - `optional_require <name>`: load the plugin with `name` if it has been specified by the user in the `plugin` array and has not already been loaded
 - `path normalize`: removes duplicate entries from PATH
-- `path <append|+=> <directory> [replace]`: if `PATH` does not contain `directory`, add it to the end on the list. If `replace` is specified, existing occurances of `directory` are removed.
-- `path prepend <directory> [replace]`: as `append` but to the front of `PATH`
-- `path normalize`: remove all duplicate entries of directory in `PATH`
